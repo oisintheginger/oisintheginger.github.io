@@ -190,6 +190,12 @@ ul{
     text-justify: inter-word;
 }
 
+.home_tab_wrapper{
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 
 .home_tab_icon_wrapper{
@@ -557,7 +563,7 @@ ul{
     margin: 20px 10px 20px 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     text-align: center;
     border-radius: 10px 10px 0px 0px;
@@ -566,6 +572,7 @@ ul{
     max-height: fit-content;
     
 }
+
 
 .home_tab_icon_wrapper{
     /*clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);*/
