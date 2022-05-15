@@ -485,7 +485,7 @@ ul{
     background-position: center;
     font-weight: 500;
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 20% 20% 30% 30%;
     grid-template-rows: min-content 100px auto;
     padding: 0%;
     margin: 0%;
@@ -520,6 +520,7 @@ ul{
 #index_nav_wrapper{
     border-radius: 0px 0px 0px 10px;
     width: fit-content;
+    font-size: medium;
 }
 
 #index_site_nav .menu_items li{
