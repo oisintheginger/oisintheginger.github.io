@@ -275,7 +275,12 @@ ul{
     font-size: smaller;
     font-style: italic;
 }
-
+.vid_and_details_wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:100%
+}
 
 .project_vid_container{
     width: 100%;
@@ -710,6 +715,7 @@ ul{
 .vid_and_details_wrapper{
     display: flex;
     flex-direction: column;
+    align-items: center;
     width:100%
 }
 
@@ -872,6 +878,7 @@ ul{
     grid-area: 1 / 2 /span 1/ span 1;
     display: flex;
     flex-direction: column;
+    
     width:100%
 }
 
