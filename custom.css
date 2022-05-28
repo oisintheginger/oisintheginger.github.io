@@ -840,7 +840,10 @@ ul{
     border-radius: 15px;
 }
 
-
+.item_details_Wrapper{
+    display: flex;
+    flex-direction: column;
+}
 
 .details_list{
     margin: 0%;
@@ -848,6 +851,12 @@ ul{
     line-height: 1.8;
     list-style: none;
     text-align: center;
+    width: fit-content;
+    align-self: center;
+    /*border:1px solid rgb(85, 85, 85) ;*/
+    box-shadow: 0px 0px 10px 5px #444444;
+    border-radius: 20px;
+    background-color: #444444;
 }
 
 .item_description_wrapper{
