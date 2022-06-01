@@ -793,7 +793,8 @@ ul{
 .modal_image{
     margin: 0 auto 0 auto;
     max-width: 70vw;
-    width: auto;
+    width: 70vw;
+    height: fit-content;
 }
 
 .portfolio_gallery img{
