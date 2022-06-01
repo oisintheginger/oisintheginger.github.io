@@ -908,11 +908,6 @@ ul{
 
 @media only screen and (min-width: 1200px){
 
-.home_option_container{
-    position: relative;
-    top: 20vh;
-    
-}
 
 .about_me_category{
     box-shadow:5px 5px #fbf5ef;
