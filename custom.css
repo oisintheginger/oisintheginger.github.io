@@ -1002,6 +1002,9 @@ ul{
     flex-direction: row;
     
 }
+.portfolio_gallery img{
+    width: 20%;
+}
 .galler_wrapper{
     align-self: center;
     flex-direction: row;
