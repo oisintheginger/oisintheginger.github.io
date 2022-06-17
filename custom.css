@@ -534,7 +534,7 @@ ul{
 /*#region Home Page*/ 
 #index_body{
     font-family: Merriweather, sans-serif;
-    background-image: url(./back1.jpg);
+    background-image: url(https://i.imgur.com/k5Q1KDT.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -661,7 +661,7 @@ ul{
 
 
 .main_body{
-    background-image: url(./back1.jpg);
+    background-image: url(https://i.imgur.com/k5Q1KDT.jpg);
     background-attachment: fixed;
     background-position:center;
     background-size:cover;
